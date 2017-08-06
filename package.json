@@ -1,0 +1,22 @@
+{
+  "name": "hands-on-logging-routing",
+  "version": "1.0.0",
+  "description": "Hands-On with Middleware, Logging, and Routing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenyada woye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "express-winston": "^2.4.0",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.11.0",
+    "winston": "^2.3.1"
+  }
+}

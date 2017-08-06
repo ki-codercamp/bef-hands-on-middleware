@@ -1,0 +1,52 @@
+[
+  {
+    "state": "California",
+    "id": "CA",
+    "population":"38.8 million"
+  },
+  {
+    "state": "Texas",
+    "id": "TX",
+    "population":"27 million"
+  },
+  {
+    "state": "Florida",
+    "id": "FL",
+    "population":"19.9 million"
+  },
+  {
+    "state": "New York",
+    "id": "NY",
+    "population":"19.8 million"
+  },
+  {
+    "state": "Illinois",
+    "id": "IL",
+    "population":"12.9 million"
+  },
+  {
+    "state": "Pennsylvania",
+    "id": "PA",
+    "population":"12.8 million"
+  },
+  {
+    "state": "Ohio",
+    "id": "OH",
+    "population":"11.6 million"
+  },
+  {
+    "state": "Georgia",
+    "id": "GA",
+    "population":"10.1 million"
+  },
+  {
+    "state": "North Carolina",
+    "id": "NC",
+    "population":"10 million"
+  },
+  {
+    "state": "Michigan",
+    "id": "MI",
+    "population":"9.9 million"
+  }
+]
